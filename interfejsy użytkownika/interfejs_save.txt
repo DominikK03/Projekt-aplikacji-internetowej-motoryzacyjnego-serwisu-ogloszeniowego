@@ -1,0 +1,20 @@
+UI:
+https://wireframe.cc/m2nK8p
+
+home - zrobione
+wyszukiwarka - zrobione
+wyszukiwarka z formularzem filtrowania - zrobione
+konkretne ogłoszenie - zrobione
+asystent ai - zrobione
+chaty - zrobione
+logowanie - zrobione
+rejestracja - zrobione
+ogłoszenia uzytkownika - zrobione
+wyroznianie ogloszenia - zrobione
+tworzenie ogłoszenia - zrobione
+edycja danych konta - zrobione
+przerabianie na konto firmowe - zrobione
+zgłaszanie uzytkownika/listingu - zrobione
+panel admina: - zrobione
+	zgłoszenia - zrobione
+	rozpatrywanie zgłoszeń - zrobione
